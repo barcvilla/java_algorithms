@@ -13,7 +13,7 @@ public class TestStack
 {
     public static void testingStack()
     {
-        Stack<String> stack = new Stack<String>();
+        Stack<String> stack = new Stack<>();
         stack.push("Juan Antonio");
         stack.push("Fernando Alonso");
         stack.push("Carlos Alberto");
